@@ -1,0 +1,7 @@
+Protocol,Delay1,Delay2,Goodput1(Mbps),Goodput2(Mbps)
+TcpCubic,10ms,50ms,0.922314,0.780958
+TcpCubic,10ms,100ms,0.913543,0.792478
+TcpCubic,20ms,80ms,0.952785,0.677305
+TcpNewReno,10ms,50ms,0.840465,0.727832
+TcpNewReno,10ms,100ms,1.18295,0.595355
+TcpNewReno,20ms,80ms,1.4292,0.340557
